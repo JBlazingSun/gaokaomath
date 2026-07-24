@@ -1,5 +1,9 @@
 # 高考：普通*高*等学校招生全国统一*考*试
 
+<p align="center">
+  <a href="README.md">简体中文</a> · <a href="README_EN.md">English</a> · <a href="README_JA.md">日本語</a>
+</p>
+
 *（自1991年起，国家教委——教育部的前身——出版的高考相关书籍统一使用此全称）*
 
  ***（以下均特指数学科目）***
