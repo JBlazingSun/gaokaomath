@@ -228,4 +228,11 @@ This repository does not include preliminary examination papers, except those fr
 - This repository reserves rights only to its method of compilation, directory structure, naming rules, and explanatory content.
 - This repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reuse must include a link to the original repository
 , must not remove the License, and must identify any modifications.
-**Last updated: July 23, 2026. The latest version prevails; historical versions are for reference only.**
+**Last updated: July 28, 2026. The latest version prevails; historical versions are for reference only.**
+
+# 8. Further Reading
+
+If you are interested in the policy evolution and historical background of the Gaokao, feel free to check out my other project:
+[**gaokao-system**](https://github.com/deekur/gaokao-system)
+
+**Last updated: July 28, 2026. The latest version prevails; historical versions are for reference only.**
