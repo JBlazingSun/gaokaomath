@@ -9,7 +9,11 @@
 ***(Everything below refers specifically to mathematics.)***
 
 <details>
+<<<<<<< HEAD
   <summary><b>1. History of Gaokao Reform  </b></summary>
+=======
+  <summary><b>1. History of Gaokao Reform</b></summary>
+>>>>>>> b005154 (修复所有语言版本第6-8章折叠标签)
 
   - 1952: The unified Gaokao system was established
   - 1952–1957: Debate over provincial versus national examinations under the unified Gaokao system
@@ -55,7 +59,11 @@
 </details>
 
 <details>
+<<<<<<< HEAD
   <summary><b>2. Detailed Papers by Year  </b></summary>
+=======
+  <summary><b>2. Detailed Papers by Year</b></summary>
+>>>>>>> b005154 (修复所有语言版本第6-8章折叠标签)
 
   - 1952–1957: National paper
   - 1958: The central government delegated examination-setting authority. The total number of papers is unknown; 12 sets have currently been collected:
@@ -95,7 +103,11 @@
 </details>
 
 <details>
+<<<<<<< HEAD
   <summary><b>Terminology  </b></summary>
+=======
+  <summary><b>Terminology</b></summary>
+>>>>>>> b005154 (修复所有语言版本第6-8章折叠标签)
 
   ***(For consistency, these names may differ from mainstream usage and from *Test Paper Analysis*.)***
   - **National paper**: When two curriculum standards coexisted, the earlier set of *unified* Gaokao questions; when only one standard existed, the *unified* Gaokao questions
@@ -110,7 +122,11 @@
 </details>
 
 <details>
+<<<<<<< HEAD
   <summary><b>3. Whether Liberal-Arts and Science Mathematics Papers Were Identical by Region and Year  </b></summary>
+=======
+  <summary><b>3. Whether Liberal-Arts and Science Mathematics Papers Were Identical by Region and Year</b></summary>
+>>>>>>> b005154 (修复所有语言版本第6-8章折叠标签)
 
   *(Papers with different requirements are still counted as the same paper, as in 1978. Place names without commas shared one paper.)*
 
@@ -139,7 +155,11 @@
 </details>
 
 <details>
+<<<<<<< HEAD
   <summary><b>4. Evolution of Curriculum Standards and Syllabi Since the Unified Gaokao System Was Established  </b></summary>
+=======
+  <summary><b>4. Evolution of Curriculum Standards and Syllabi Since the Unified Gaokao System Was Established</b></summary>
+>>>>>>> b005154 (修复所有语言版本第6-8章折叠标签)
 
   1. 1952 *Secondary School Mathematics Teaching Syllabus* (draft; revised in 1954 and 1956)
   2. 1963 *Mathematics Teaching Syllabus for Full-Time Secondary Schools* (draft)
@@ -224,7 +244,11 @@
 </details>
 
 <details>
+<<<<<<< HEAD
   <summary><b>6. Notes on the Collection  </b></summary>
+=======
+  <summary><b>6. Notes on the Collection</b></summary>
+>>>>>>> b005154 (修复所有语言版本第6-8章折叠标签)
 
   ## 1. Inclusion Criteria for Papers
 
@@ -256,7 +280,11 @@
 </details>
 
 <details>
+<<<<<<< HEAD
   <summary><b>7. Feedback and Notes  </b></summary>
+=======
+  <summary><b>7. Feedback and Notes</b></summary>
+>>>>>>> b005154 (修复所有语言版本第6-8章折叠标签)
 
   ## 1. Feedback
 
@@ -283,7 +311,11 @@
 </details>
 
 <details>
+<<<<<<< HEAD
   <summary><b>8. Further Reading  </b></summary>
+=======
+  <summary><b>8. Further Reading</b></summary>
+>>>>>>> b005154 (修复所有语言版本第6-8章折叠标签)
 
   If you are interested in the policy evolution and historical background of the Gaokao, feel free to check out my other project:
   [**gaokao-system**](https://github.com/deekur/gaokao-system)
