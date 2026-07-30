@@ -234,22 +234,22 @@
 
   Accordingly, the collection excludes papers used solely for junior-college admissions in some years or provinces, papers for independent or joint admissions by universities, and the so-called ~~Spring Gaokao~~ papers used in recent years by Shandong, Guangdong, Tianjin, Fujian, and other provinces.
 
-  ## 3. Known Missing Papers
+  ## 2. Known Missing Papers
 
   **Regular Gaokao**
   - Remaining regions from 1958
-  - Zhejiang's 1977 preliminary paper (see Section 6.5)
+  - Zhejiang's 1977 preliminary paper (see Section 6.4)
   - It is uncertain whether other regions independently set papers in 1977
 
   **Spring Gaokao**
   - 2003 Anhui liberal-arts spring paper (Inner Mongolia may have used the same paper)
   - 2002 Inner Mongolia spring paper (may have been the same as Beijing's)
 
-  ## 4. Alternative Papers
+  ## 3. Alternative Papers
 
   This repository does not include **alternative papers**, **whether or not they were ever used**. Note that the 2003 alternative paper was not used, and that the papers for the postponed-examination regions in 45 districts and cities of Sichuan and Gansu in 2008 were not alternative papers. Alternative papers are also called **backup papers** and **付题** (“付” is the Second Simplified Chinese form of “副”).
 
-  ## 5. Preliminary Examination Papers
+  ## 4. Preliminary Examination Papers
 
   This repository does not include preliminary examination papers, except those from 1977, because only in 1977 were both preliminary examinations and the Gaokao set by units at or below the provincial level. As for whether Heilongjiang's first-round examination, Jiangsu's preliminary examination, and Zhejiang's selection examination in 1977 count as preliminary examinations, this repository follows [this view](https://doi.org/10.13397/j.cnki.fef.2023.05.010).
 
