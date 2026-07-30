@@ -159,7 +159,7 @@
   ## 1. 出版物（ISBN-10 を ISBN-13 に変換）
 
   <details>
-    <summary><b>展開/折りたたみ</b></summary>
+    <summary><b>1. 出版物（ISBN-10 を ISBN-13 に変換）</b></summary>
 
     - 《上海市高考试卷集 数学 1990-2003》 ISBN：9787208049062
     - 《1950-1965高考数学题解 —附数学竞赛题解（1978）》 保定第一・第三中学校数学グループ、ISBN なし
@@ -195,7 +195,7 @@
   ## 2. 電子資料
 
   <details>
-    <summary><b>展開/折りたたみ</b></summary>
+    <summary><b>2. 電子資料</b></summary>
 
     - [学科网](https://www.zxxk.com)
     - [菁优网](https://www.jyeoo.com)
@@ -211,7 +211,7 @@
   ## 3. 個人による整理
 
   <details>
-    <summary><b>展開/折りたたみ</b></summary>
+    <summary><b>3. 個人による整理</b></summary>
 
     - 劉威が整理した《1977—2025高考数学真题全编》（主な参照資料、WeChat 公式アカウント：劢思数学、WeChat ID：gh_e0ffa704d298）
     - 周応業が整理した 1958 年安徽高考试験
@@ -222,7 +222,6 @@
   **出典を特定できなかった資料にも感謝します**
 
 </details>
-
 <details>
   <summary><b>6. 内容に関する説明 </b></summary>
 

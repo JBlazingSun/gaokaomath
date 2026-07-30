@@ -159,7 +159,7 @@
   ## 1. Publications (ISBN-10 converted to ISBN-13)
 
   <details>
-    <summary><b>Expand/Collapse</b></summary>
+    <summary><b>1. Publications (ISBN-10 converted to ISBN-13)</b></summary>
 
     - 《上海市高考试卷集 数学 1990-2003》 ISBN: 9787208049062
     - 《1950-1965高考数学题解 —附数学竞赛题解（1978）》, mathematics groups of Baoding No. 1 and No. 3 Middle Schools, no ISBN
@@ -195,7 +195,7 @@
   ## 2. Electronic Resources
 
   <details>
-    <summary><b>Expand/Collapse</b></summary>
+    <summary><b>2. Electronic Resources</b></summary>
 
     - [ZXXK](https://www.zxxk.com)
     - [Jyeoo](https://www.jyeoo.com)
@@ -211,7 +211,7 @@
   ## 3. Individual Compilations
 
   <details>
-    <summary><b>Expand/Collapse</b></summary>
+    <summary><b>3. Individual Compilations</b></summary>
 
     - Liu Wei's 《1977—2025高考数学真题全编》 (the primary reference; WeChat official account: 劢思数学; WeChat ID: gh_e0ffa704d298)
     - The 1958 Anhui Gaokao paper compiled by Zhou Yingye
