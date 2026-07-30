@@ -156,9 +156,6 @@
 <details>
   <summary><b>5. 部分题目和考试信息来源</b></summary>
 
-<details>
-  <summary><b>5. 部分题目和考试信息来源</b></summary>
-
   <details>
     <summary><b>1. 出版物（isbn10转为isbn13）</b></summary>
 
