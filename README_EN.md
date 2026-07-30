@@ -224,7 +224,9 @@
 <details>
   <summary><b>6. Notes on the Collection</b></summary>
 
-  ## 1. Inclusion Criteria for Papers
+  <br>
+
+  **1. Inclusion Criteria for Papers**
 
   - General undergraduate institutions could participate in admissions, and admission was not conducted directly by individual institutions
   - All **general senior high school** students could participate
@@ -232,7 +234,7 @@
 
   Accordingly, the collection excludes papers used solely for junior-college admissions in some years or provinces, papers for independent or joint admissions by universities, and the so-called ~~Spring Gaokao~~ papers used in recent years by Shandong, Guangdong, Tianjin, Fujian, and other provinces.
 
-  ## 2. Known Missing Papers
+  **2. Known Missing Papers**
 
   **Regular Gaokao**
   - Remaining regions from 1958
@@ -243,11 +245,11 @@
   - 2003 Anhui liberal-arts spring paper (Inner Mongolia may have used the same paper)
   - 2002 Inner Mongolia spring paper (may have been the same as Beijing's)
 
-  ## 3. Alternative Papers
+  **3. Alternative Papers**
 
   This repository does not include **alternative papers**, **whether or not they were ever used**. Note that the 2003 alternative paper was not used, and that the papers for the postponed-examination regions in 45 districts and cities of Sichuan and Gansu in 2008 were not alternative papers. Alternative papers are also called **backup papers** and **付题** (“付” is the Second Simplified Chinese form of “副”).
 
-  ## 4. Preliminary Examination Papers
+  **4. Preliminary Examination Papers**
 
   This repository does not include preliminary examination papers, except those from 1977, because only in 1977 were both preliminary examinations and the Gaokao set by units at or below the provincial level. As for whether Heilongjiang's first-round examination, Jiangsu's preliminary examination, and Zhejiang's selection examination in 1977 count as preliminary examinations, this repository follows [this view](https://doi.org/10.13397/j.cnki.fef.2023.05.010).
 
@@ -256,14 +258,16 @@
 <details>
   <summary><b>7. Feedback and Notes</b></summary>
 
-  ## 1. Feedback
+  <br>
+
+  **1. Feedback**
 
   - To contribute missing papers, contact [deekurforothers@gmail.com](mailto:deekurforothers@gmail.com). Sources must be accurate and reliable; the requirements may be relaxed appropriately when no other source exists
   - The same contact applies to supplemental answers. Only test analyses or answers published or issued by the Ministry of Education or **provincial-level** education and examination authorities are accepted; answers for national papers from 2009 onward are not needed
   - **If the material you provide contains your original work or your own compiled work, it will be deemed licensed under CC BY 4.0 when we accept it**
   - For other matters, including corrections, please open an issue
 
-  ## 2. File Notes
+  **2. File Notes**
 
   - All files are PDFs, with all metadata and watermarks removed
   - A small number of files were converted from DOCX and may have incomplete formula rendering; this will be fixed later
@@ -271,7 +275,7 @@
   - Bulk download instructions: Code → Download ZIP; see the image below
   ![Bulk download instructions](https://files.seeusercontent.com/2026/04/08/v3jX/1000085612.jpg)
 
-  ## 3. Copyright Notice
+  **3. Copyright Notice**
 
   - Examination questions come from publicly available online and published sources; copyright belongs to the examination setters or publishers.
   - Typesetting is based on public editions. This repository only compiles and organizes the materials and adds necessary annotations.
