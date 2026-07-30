@@ -156,8 +156,6 @@
 <details>
   <summary><b>5. 部分题目和考试信息来源</b></summary>
 
-  ## 1. 出版物（isbn10转为isbn13）
-
   <details>
     <summary><b>1. 出版物（isbn10转为isbn13）</b></summary>
 
@@ -192,8 +190,6 @@
 
   </details>
 
-  ## 2. 电子资料
-
   <details>
     <summary><b>2. 电子资料</b></summary>
 
@@ -207,8 +203,6 @@
     - [万方中国地方志数据库](https://fz.wanfangdata.com.cn/)
 
   </details>
-
-  ## 3. 个人整理
 
   <details>
     <summary><b>3. 个人整理</b></summary>
