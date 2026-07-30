@@ -9,7 +9,7 @@
  ***（以下均特指数学科目）***
 
 <details>
-  <summary><b>1. 高考改革史（点击展开）</b></summary>
+  <summary><b>1. 高考改革史 </b></summary>
 
   - 1952：统一高考制度建立
   - 1952-1957：统一高考下分省与统一的争论
@@ -55,7 +55,7 @@
 </details>
 
 <details>
-  <summary><b>2. 分年试卷详细情况（点击展开）</b></summary>
+  <summary><b>2. 分年试卷详细情况 </b></summary>
 
   - 1952-1957：全国卷
   - 1958：国家下放命题权，试卷总数量不明，目前收集到的有12套：
@@ -95,7 +95,7 @@
 </details>
 
 <details>
-  <summary><b>名词解释（点击展开）</b></summary>
+  <summary><b>名词解释 </b></summary>
 
   ***（为统一标准，命名方式可能与主流称呼，《试题分析》不同）***
   - **全国卷**：存在两套课程标准时，年份较早的对应的*统一*高考试题，只存在一套时，指*统一*高考试题
@@ -110,7 +110,7 @@
 </details>
 
 <details>
-  <summary><b>3. 历年各地文理数学试卷是否相同（点击展开）</b></summary>
+  <summary><b>3. 历年各地文理数学试卷是否相同 </b></summary>
 
   *（同卷不同要求也算同卷，比如1978；地名之间不加逗号代表共用一套试题）*
 
@@ -139,7 +139,7 @@
 </details>
 
 <details>
-  <summary><b>4. 统一高考制度建立以来课程标准、大纲演变（点击展开）</b></summary>
+  <summary><b>4. 统一高考制度建立以来课程标准、大纲演变 </b></summary>
 
   1. 1952 中学数学教学大纲（草案，1954、1956修订）
   2. 1963 全日制中学数学教学大纲（草案）
@@ -154,7 +154,7 @@
 </details>
 
 <details>
-  <summary><b>5. 部分题目和考试信息来源（点击展开）</b></summary>
+  <summary><b>5. 部分题目和考试信息来源 </b></summary>
 
   ## 1. 出版物（isbn10转为isbn13）
 
@@ -224,7 +224,7 @@
 </details>
 
 <details>
-  <summary><b>6. 内容说明（点击展开）</b></summary>
+  <summary><b>6. 内容说明 </b></summary>
 
   ## 1. 试卷收录标准
 
@@ -256,7 +256,7 @@
 </details>
 
 <details>
-  <summary><b>7. 反馈与说明（点击展开）</b></summary>
+  <summary><b>7. 反馈与说明 </b></summary>
 
   ## 1.反馈：
 
@@ -283,7 +283,7 @@
 </details>
 
 <details>
-  <summary><b>8. 延伸阅读（点击展开）</b></summary>
+  <summary><b>8. 延伸阅读 </b></summary>
 
   如果你对高考的政策演变与历史背景感兴趣，欢迎关注我的另一个项目：
   [**gaokao-system**](https://github.com/deekur/gaokao-system)
