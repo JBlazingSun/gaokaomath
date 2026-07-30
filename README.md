@@ -139,7 +139,7 @@
 ## 1. 出版物（isbn10转为isbn13）
 
 <details>
-  <summary><b>点击展开/收起完整书目</b></summary>
+  <summary><b>展开/收起</b></summary>
 
   - 《上海市高考试卷集 数学 1990-2003》 ISBN：9787208049062
   - 《1950-1965高考数学题解 —附数学竞赛题解（1978）》 保定一中三中数学组 无ISBN
@@ -173,20 +173,31 @@
 </details>
 
 ## 2. 电子资料
-- [学科网](https://www.zxxk.com)
-- [菁优网](https://www.jyeoo.com)
-- [天仁报业集团](http://www.trgroup.com.cn)
-- [正确教育云](https://www.zqy.com)
-- [新浪教育](https://edu.sina.com.cn)
-- [中国教育在线](https://www.eol.cn)
-- [中国教育和科研计算机网](https://www.edu.cn)
-- [万方中国地方志数据库](https://fz.wanfangdata.com.cn/)
+
+<details>
+  <summary><b>展开/收起</b></summary>
+
+  - [学科网](https://www.zxxk.com)
+  - [菁优网](https://www.jyeoo.com)
+  - [天仁报业集团](http://www.trgroup.com.cn)
+  - [正确教育云](https://www.zqy.com)
+  - [新浪教育](https://edu.sina.com.cn)
+  - [中国教育在线](https://www.eol.cn)
+  - [中国教育和科研计算机网](https://www.edu.cn)
+  - [万方中国地方志数据库](https://fz.wanfangdata.com.cn/)
+
+</details>
 
 ## 3. 个人整理
-- 刘威整理的《1977—2025高考数学真题全编》（主要参考对象，微信公众号：劢思数学，微信号：gh_e0ffa704d298）
-- 周应业整理的1958年安徽高考试卷
-- 张瑞兵整理的2020年上海春考试卷
 
+<details>
+  <summary><b>展开/收起</b></summary>
+
+  - 刘威整理的《1977—2025高考数学真题全编》（主要参考对象，微信公众号：劢思数学，微信号：gh_e0ffa704d298）
+  - 周应业整理的1958年安徽高考试卷
+  - 张瑞兵整理的2020年上海春考试卷
+
+</details>
 ## 未能确定来源的也一并表示感谢
 
 # 6. 内容说明
