@@ -105,7 +105,6 @@
   - **Old Curriculum paper**: When a New Curriculum paper existed, the other unified Gaokao questions, based on the 1986 curriculum standards
   - **New Curriculum Standards paper**: Unified Gaokao questions based on the 2003 curriculum standards
   - **New Gaokao paper**: Unified Gaokao questions based on the 2017 curriculum standards (except in 1993)
-  *(There is no official statement identifying the provinces that used each unified paper, and the issue remains disputed. They are therefore not listed separately; see file names and Section 6.3.)*
 
 </details>
 
@@ -165,13 +164,12 @@
 <li>《2000~2003年 全国及各省市高考数学试题及解答》 ISBN: 9787560399911</li>
 <li>《1977年各省、市、自治区 高考数学题解汇编》, Wuzhou Teaching Research Office, no ISBN</li>
 <li>《1977年全国各省市自治区高等学校招生 数学试题解答汇编》, mathematics-materials editorial group of the Education Bureau of Pixian County, Jiangsu, no ISBN</li>
-<li>《'79-'91中国高考数学试题汇析》, no ISBN</li>
 <li>《1951-1979 全国历届高考数学题解》, Hebei People's Publishing House, no ISBN</li>
 <li>《全国高等学校招生数学试题及解答 1977年、1950年-1965年》, Department of Mathematics, Kunming Normal College, no ISBN</li>
 <li>《1977年各省市高考数学题解》, Nanchang No. 19 Middle School, Jiangxi, no ISBN</li>
 <li>《1949-1979 全国历届高考试题及解答（数学）》, Xinlei Publishing House, no ISBN</li>
 <li>《数学试题解 1978》, Shanxi University, no ISBN</li>
-<li>《′78-′91 中国高考数学试题汇析》 ISBN: 9787532027613</li>
+<li>《'78-'91 中国高考数学试题汇析》 ISBN: 9787532027613</li>
 <li>《高考文献 上》 ISBN: 9787040126716</li>
 <li>《高考文献 下》 ISBN: 9787040126723</li>
 <li>《中国高考史论述》 ISBN: 9787216048873</li>
