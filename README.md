@@ -325,9 +325,14 @@
 
 
 <details>
-  <summary><b>测试：折叠区内的列表</b></summary>
+  <summary><b>测试：一级折叠</b></summary>
 
-  - 这是测试项 1
-  - 这是测试项 2
+  <details>
+    <summary><b>测试：二级折叠</b></summary>
+
+    - 这是二级折叠内的测试项 1
+    - 这是二级折叠内的测试项 2
+
+  </details>
 
 </details>
