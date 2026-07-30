@@ -154,72 +154,72 @@
 </details>
 
 <details>
-  <summary><b>5. Sources for Selected Questions and Examination Information  </b></summary>
+  <summary><b>5. Sources for Selected Questions and Examination Information</b></summary>
 
-  ## 1. Publications (ISBN-10 converted to ISBN-13)
+<details>
+  <summary><b>1. Publications (ISBN-10 converted to ISBN-13)</b></summary>
 
-  <details>
-    <summary><b>1. Publications (ISBN-10 converted to ISBN-13)</b></summary>
+<ul>
+<li>《上海市高考试卷集 数学 1990-2003》 ISBN: 9787208049062</li>
+<li>《1950-1965高考数学题解 —附数学竞赛题解（1978）》, mathematics groups of Baoding No. 1 and No. 3 Middle Schools, no ISBN</li>
+<li>《2000~2003年 全国及各省市高考数学试题及解答》 ISBN: 9787560399911</li>
+<li>《1977年各省、市、自治区 高考数学题解汇编》, Wuzhou Teaching Research Office, no ISBN</li>
+<li>《1977年全国各省市自治区高等学校招生 数学试题解答汇编》, mathematics-materials editorial group of the Education Bureau of Pixian County, Jiangsu, no ISBN</li>
+<li>《'79-'91中国高考数学试题汇析》, no ISBN</li>
+<li>《1951-1979 全国历届高考数学题解》, Hebei People's Publishing House, no ISBN</li>
+<li>《全国高等学校招生数学试题及解答 1977年、1950年-1965年》, Department of Mathematics, Kunming Normal College, no ISBN</li>
+<li>《1977年各省市高考数学题解》, Nanchang No. 19 Middle School, Jiangxi, no ISBN</li>
+<li>《1949-1979 全国历届高考试题及解答（数学）》, Xinlei Publishing House, no ISBN</li>
+<li>《数学试题解 1978》, Shanxi University, no ISBN</li>
+<li>《′78-′91 中国高考数学试题汇析》 ISBN: 9787532027613</li>
+<li>《高考文献 上》 ISBN: 9787040126716</li>
+<li>《高考文献 下》 ISBN: 9787040126723</li>
+<li>《中国高考史论述》 ISBN: 9787216048873</li>
+<li>《新中国高考史》 ISBN: 9787211058914</li>
+<li>《历史拐点 广东高考30年》 ISBN: 9787536135765</li>
+<li>《中国高考事略》 ISBN: 9787574801875</li>
+<li>The 《中国高考真题全编》, 《全国及各省市高考试题全解》, and 《中国教育考试年鉴》 series</li>
+<li>《数学通报》 ISSN: 05831458</li>
+<li>《数学教学》 ISSN: 04887387</li>
+<li>《数学教学通讯》 ISSN: 10018875</li>
+<li>《数学通讯》 ISSN: 04887395</li>
+<li>《中学数学教学参考》 ISSN: 10022171</li>
+<li>《数学教学研究》 ISSN: 16710452</li>
+<li>《教学与研究（数学）》 ISSN: 10036407</li>
+<li>《上海中学数学》 ISSN: 16727495</li>
+<li>《中国考试》 ISSN: 10058427</li>
+</ul>
 
-    - 《上海市高考试卷集 数学 1990-2003》 ISBN: 9787208049062
-    - 《1950-1965高考数学题解 —附数学竞赛题解（1978）》, mathematics groups of Baoding No. 1 and No. 3 Middle Schools, no ISBN
-    - 《2000~2003年 全国及各省市高考数学试题及解答》 ISBN: 9787560399911
-    - 《1977年各省、市、自治区 高考数学题解汇编》, Wuzhou Teaching Research Office, no ISBN
-    - 《1977年全国各省市自治区高等学校招生 数学试题解答汇编》, mathematics-materials editorial group of the Education Bureau of Pixian County, Jiangsu, no ISBN
-    - 《'79-'91中国高考数学试题汇析》, no ISBN
-    - 《1951-1979 全国历届高考数学题解》, Hebei People's Publishing House, no ISBN
-    - 《全国高等学校招生数学试题及解答 1977年、1950年-1965年》, Department of Mathematics, Kunming Normal College, no ISBN
-    - 《1977年各省市高考数学题解》, Nanchang No. 19 Middle School, Jiangxi, no ISBN
-    - 《1949-1979 全国历届高考试题及解答（数学）》, Xinlei Publishing House, no ISBN
-    - 《数学试题解 1978》, Shanxi University, no ISBN
-    - 《′78-′91 中国高考数学试题汇析》 ISBN: 9787532027613
-    - 《高考文献 上》 ISBN: 9787040126716
-    - 《高考文献 下》 ISBN: 9787040126723
-    - 《中国高考史论述》 ISBN: 9787216048873
-    - 《新中国高考史》 ISBN: 9787211058914
-    - 《历史拐点 广东高考30年》 ISBN: 9787536135765
-    - 《中国高考事略》 ISBN: 9787574801875
-    - The 《中国高考真题全编》, 《全国及各省市高考试题全解》, and 《中国教育考试年鉴》 series
-    - 《数学通报》 ISSN: 05831458
-    - 《数学教学》 ISSN: 04887387
-    - 《数学教学通讯》 ISSN: 10018875
-    - 《数学通讯》 ISSN: 04887395
-    - 《中学数学教学参考》 ISSN: 10022171
-    - 《数学教学研究》 ISSN: 16710452
-    - 《教学与研究（数学）》 ISSN: 10036407
-    - 《上海中学数学》 ISSN: 16727495
-    - 《中国考试》 ISSN: 10058427
+</details>
 
-  </details>
+<details>
+  <summary><b>2. Electronic Resources</b></summary>
 
-  ## 2. Electronic Resources
+<ul>
+<li><a href="https://www.zxxk.com">ZXXK</a></li>
+<li><a href="https://www.jyeoo.com">Jyeoo</a></li>
+<li><a href="http://www.trgroup.com.cn">Tianren Newspaper Group</a></li>
+<li><a href="https://www.zqy.com">Zhengque Education Cloud</a></li>
+<li><a href="https://edu.sina.com.cn">Sina Education</a></li>
+<li><a href="https://www.eol.cn">China Education Online</a></li>
+<li><a href="https://www.edu.cn">China Education and Research Network</a></li>
+<li><a href="https://fz.wanfangdata.com.cn/">Wanfang Database of Chinese Local Gazetteers</a></li>
+</ul>
 
-  <details>
-    <summary><b>2. Electronic Resources</b></summary>
+</details>
 
-    - [ZXXK](https://www.zxxk.com)
-    - [Jyeoo](https://www.jyeoo.com)
-    - [Tianren Newspaper Group](http://www.trgroup.com.cn)
-    - [Zhengque Education Cloud](https://www.zqy.com)
-    - [Sina Education](https://edu.sina.com.cn)
-    - [China Education Online](https://www.eol.cn)
-    - [China Education and Research Network](https://www.edu.cn)
-    - [Wanfang Database of Chinese Local Gazetteers](https://fz.wanfangdata.com.cn/)
+<details>
+  <summary><b>3. Individual Compilations</b></summary>
 
-  </details>
+<ul>
+<li>Liu Wei's 《1977—2025高考数学真题全编》 (the primary reference; WeChat official account: 劢思数学; WeChat ID: gh_e0ffa704d298)</li>
+<li>The 1958 Anhui Gaokao paper compiled by Zhou Yingye</li>
+<li>The 2020 Shanghai Spring Examination paper compiled by Zhang Ruibing</li>
+</ul>
 
-  ## 3. Individual Compilations
+</details>
 
-  <details>
-    <summary><b>3. Individual Compilations</b></summary>
-
-    - Liu Wei's 《1977—2025高考数学真题全编》 (the primary reference; WeChat official account: 劢思数学; WeChat ID: gh_e0ffa704d298)
-    - The 1958 Anhui Gaokao paper compiled by Zhou Yingye
-    - The 2020 Shanghai Spring Examination paper compiled by Zhang Ruibing
-
-  </details>
-
-  **Thanks Also Go to Sources That Could Not Be Identified**
+**Thanks Also Go to Sources That Could Not Be Identified**
 
 </details>
 
