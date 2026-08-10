@@ -287,9 +287,11 @@
 <details>
   <summary><b>8. 延伸阅读</b></summary>
 
-  如果你对高考的政策演变与历史背景感兴趣，欢迎关注我的另一个项目：
+  - 如果你对高考的政策演变与历史背景感兴趣，欢迎关注我的另一个项目：
   [**gaokao-system**](https://github.com/deekur/gaokao-system)
-
+  
+  - 此外，社区中也有基于本仓库数据使用latex重排整合的文件，并提供源码：
+[**DxAThing/Gaokao-Math-Problems-Compilation**](https://github.com/DxAThing/Gaokao-Math-Problems-Compilation)
 </details>
 
-**最后更新时间：2026年8月6日，以最新版本为准，历史版本仅供参考**
+**最后更新时间：2026年8月10日，以最新版本为准，历史版本仅供参考**
