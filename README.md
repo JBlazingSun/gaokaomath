@@ -294,4 +294,4 @@
 [**DxAThing/Gaokao-Math-Problems-Compilation**](https://github.com/DxAThing/Gaokao-Math-Problems-Compilation)
 </details>
 
-**最后更新时间：2026年8月19日，以最新版本为准，历史版本仅供参考**
+**最后更新时间：2026年8月21日，以最新版本为准，历史版本仅供参考**
