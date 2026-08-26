@@ -195,7 +195,6 @@
 
 <ul>
 <li><a href="https://www.zxxk.com">ZXXK</a></li>
-<li><a href="https://www.jyeoo.com">Jyeoo</a></li>
 <li><a href="http://www.trgroup.com.cn">Tianren Newspaper Group</a></li>
 <li><a href="https://www.zqy.com">Zhengque Education Cloud</a></li>
 <li><a href="https://edu.sina.com.cn">Sina Education</a></li>
@@ -294,4 +293,4 @@
 [**DxAThing/Gaokao-Math-Problems-Compilation**](https://github.com/DxAThing/Gaokao-Math-Problems-Compilation)
 </details>
 
-**Last updated: August 24, 2026. The latest version prevails; historical versions are for reference only.**
+**Last updated: August 26, 2026. The latest version prevails; historical versions are for reference only.**

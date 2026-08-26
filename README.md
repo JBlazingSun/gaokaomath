@@ -195,7 +195,6 @@
 
 <ul>
 <li><a href="https://www.zxxk.com">学科网</a></li>
-<li><a href="https://www.jyeoo.com">菁优网</a></li>
 <li><a href="http://www.trgroup.com.cn">天仁报业集团</a></li>
 <li><a href="https://www.zqy.com">正确教育云</a></li>
 <li><a href="https://edu.sina.com.cn">新浪教育</a></li>
@@ -294,4 +293,4 @@
 [**DxAThing/Gaokao-Math-Problems-Compilation**](https://github.com/DxAThing/Gaokao-Math-Problems-Compilation)
 </details>
 
-**最后更新时间：2026年8月24日，以最新版本为准，历史版本仅供参考**
+**最后更新时间：2026年8月26日，以最新版本为准，历史版本仅供参考**

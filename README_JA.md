@@ -195,7 +195,6 @@
 
 <ul>
 <li><a href="https://www.zxxk.com">学科网</a></li>
-<li><a href="https://www.jyeoo.com">菁优网</a></li>
 <li><a href="http://www.trgroup.com.cn">天仁报业集团</a></li>
 <li><a href="https://www.zqy.com">正确教育云</a></li>
 <li><a href="https://edu.sina.com.cn">新浪教育</a></li>
@@ -295,4 +294,4 @@
 
 </details>
 
-**最終更新：2026 年 8 月 24 日。最新バージョンを優先し、過去のバージョンは参考用です。**
+**最終更新：2026 年 8 月 26 日。最新バージョンを優先し、過去のバージョンは参考用です。**
